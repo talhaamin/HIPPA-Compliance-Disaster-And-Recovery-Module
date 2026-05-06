@@ -1,6 +1,6 @@
 # Disaster and Recovery Management - Integra 360 2.0
 
-Disaster and Recovery Management - Integra 360 2.0 is a Windows desktop and API solution for SQL Server disaster recovery operations. It helps teams authenticate users, manage recovery permissions, stage the latest Dropbox backup through a central API, restore local SQL Server databases, create encrypted backup uploads, run scheduled recovery jobs, audit every important action, and produce compliance evidence.
+Disaster and Recovery Management is a Windows desktop and API solution for SQL Server disaster recovery operations. It helps teams authenticate users, manage recovery permissions, stage the latest Dropbox backup through a central API, restore local SQL Server databases, create encrypted backup uploads, run scheduled recovery jobs, audit every important action, and produce compliance evidence.
 
 The system is built for distributed desktop environments where normal users should not hold Dropbox credentials and administrators need a clear operational record of backups, restores, approvals, settings changes, and recovery readiness.
 
