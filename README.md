@@ -1,4 +1,4 @@
-# Disaster and Recovery Management - Integra 360 2.0
+# Disaster and Recovery Management App
 
 Disaster and Recovery Management is a Windows desktop and API solution for SQL Server disaster recovery operations. It helps teams authenticate users, manage recovery permissions, stage the latest Dropbox backup through a central API, restore local SQL Server databases, create encrypted backup uploads, run scheduled recovery jobs, audit every important action, and produce compliance evidence.
 
